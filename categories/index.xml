@@ -5,8 +5,6 @@
     <link>https://gallery.blackpiratex.com/categories/</link>
     <description>Recent content in Categories on Gallery By BlackPirateX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>contact@blackpiratex.com (BlackPirateX)</managingEditor>
-    <webMaster>contact@blackpiratex.com (BlackPirateX)</webMaster><atom:link href="https://gallery.blackpiratex.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gallery.blackpiratex.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
